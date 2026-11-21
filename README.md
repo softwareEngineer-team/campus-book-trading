@@ -1,4 +1,4 @@
-<img width="2876" height="1528" alt="image" src="https://github.com/user-attachments/assets/bdfdf911-6539-4843-9c2b-e07a5288fad5" /># 校园二手教材交易管理系统
+# 校园二手教材交易管理系统
 Campus Second-hand Textbook Exchange System
 
 ## 1. 项目简介
